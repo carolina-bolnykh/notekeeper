@@ -1,0 +1,3 @@
+todo:
+
+- vite config documentation
